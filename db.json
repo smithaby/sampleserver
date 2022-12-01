@@ -1,5 +1,5 @@
 {
-  "mortageDetails-en": {
+  "en":{  "mortageDetails": {
     "myMortage": {
       "loanId": "7007800708",
       "nextPaymentDue": 1183.16,
@@ -18,5 +18,6 @@
       "items": ["Twitter", "facebook"]
     }
 
-  }
+  }}
+
 }
