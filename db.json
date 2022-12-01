@@ -1,45 +1,45 @@
 {
-    "mortageDetails/en": {
-        "myMortage": {
-            "loanId": "7007800708",
-            "nextPaymentDue": 1183.16,
-            "nextPaymentDueDate": "12/10/2023",
-            "currentLoanBalance": 170458.16,
-            "currentIntrestRate": "2.125%"
-        },
-        "paymentAcknowledgement": "Thank you for payment received on 12/10/2022. To see how your payment is applied, please see the loan activity",
-        "takeActionComment": "use our custom quote tool to get a non obligation quote based on your needs",
-        "homeValueComment": "Get a fast non obligation home estimate and see recent sales in your area",
-        "refundComment": "Don't wait for a refund check estimate. With eDisbursements refunds are automatically deposited. Sign up today",
-        "learningCenterComment": "Mortage news, tips and tools",
-        "calculatorComment": "Here is a link to some tools to help you estimate, how different aspect of your mortage might affect you",
-        "socialMedia": {
-            "comment": "Follow us on Social Media",
-            "items": ["Twitter", "facebook"]
-        }
+  "mortageDetails/en": {
+    "myMortage": {
+      "loanId": "7007800708",
+      "nextPaymentDue": 1183.16,
+      "nextPaymentDueDate": "12/10/2023",
+      "currentLoanBalance": 170458.16,
+      "currentIntrestRate": "2.125%"
+    },
+    "paymentAcknowledgement": "Thank you for payment received on 12/10/2022. To see how your payment is applied, please see the loan activity",
+    "takeActionComment": "use our custom quote tool to get a non obligation quote based on your needs",
+    "homeValueComment": "Get a fast non obligation home estimate and see recent sales in your area",
+    "refundComment": "Don't wait for a refund check estimate. With eDisbursements refunds are automatically deposited. Sign up today",
+    "learningCenterComment": "Mortage news, tips and tools",
+    "calculatorComment": "Here is a link to some tools to help you estimate, how different aspect of your mortage might affect you",
+    "socialMedia": {
+      "comment": "Follow us on Social Media",
+      "items": ["Twitter", "facebook"]
+    }
 
-    }, 
-        "mortageDetails/es": {
-        "myMortage": {
-            "loanId": "7007800708",
-            "nextPaymentDue": 1183.16,
-            "nextPaymentDueDate": "12/10/2023",
-            "currentLoanBalance": 170458.16,
-            "currentIntrestRate": "2.125%"
-        },
-        "paymentAcknowledgement": "Gracias por el pago recibido el 10/12/2022. Para ver cómo se aplica su pago, consulte la actividad del préstamo",
-        "takeActionComment": "Use nuestra herramienta de cotización personalizada para obtener una cotización sin compromiso basada en sus necesidades",
-        "homeValueComment": "Obtenga un presupuesto de vivienda rápido y sin compromiso y vea las ventas recientes en su área",
-        "refundComment": "No espere un presupuesto de cheque de reembolso. Con eDisbursements, los reembolsos se depositan automáticamente. Regístrate hoy",
-        "learningCenterComment": "Noticias hipotecarias, consejos y herramientas",
-        "calculatorComment": "Aquí hay un enlace a algunas herramientas para ayudarlo a estimar cómo los diferentes aspectos de su hipoteca podrían afectarlo.",
-        "socialMedia": {
-            "comment": "Síguenos en las redes sociales",
-            "items": ["Twitter", "facebook"]
-        }
+  },
+  "mortageDetails/es": {
+    "myMortage": {
+      "loanId": "7007800708",
+      "nextPaymentDue": 1183.16,
+      "nextPaymentDueDate": "12/10/2023",
+      "currentLoanBalance": 170458.16,
+      "currentIntrestRate": "2.125%"
+    },
+    "paymentAcknowledgement": "Gracias por el pago recibido el 10/12/2022. Para ver cómo se aplica su pago, consulte la actividad del préstamo",
+    "takeActionComment": "Use nuestra herramienta de cotización personalizada para obtener una cotización sin compromiso basada en sus necesidades",
+    "homeValueComment": "Obtenga un presupuesto de vivienda rápido y sin compromiso y vea las ventas recientes en su área",
+    "refundComment": "No espere un presupuesto de cheque de reembolso. Con eDisbursements, los reembolsos se depositan automáticamente. Regístrate hoy",
+    "learningCenterComment": "Noticias hipotecarias, consejos y herramientas",
+    "calculatorComment": "Aquí hay un enlace a algunas herramientas para ayudarlo a estimar cómo los diferentes aspectos de su hipoteca podrían afectarlo.",
+    "socialMedia": {
+      "comment": "Síguenos en las redes sociales",
+      "items": ["Twitter", "facebook"]
+    }
 
-    }, 
- "loanInfos/en": {
+  },
+  "loanInfos/en": {
     "loanInfo": {
       "loanType": "Conventional w/o PMI",
       "loanNumber": "1000729",
@@ -73,7 +73,7 @@
       "otherRealEstateTaxesPaid": 0
     }
   },
-   "loanInfos/es": {
+  "loanInfos/es": {
     "loanInfo": {
       "loanType": "Convencional sin PMI",
       "loanNumber": "1000729",
@@ -107,7 +107,7 @@
       "otherRealEstateTaxesPaid": 0
     }
   },
-"loanActivity/en": {
+  "loanActivity/en": {
     "loanInfo": {
       "loanType": "Conventional w/o PMI",
       "loanNumber": "1000729",
@@ -128,8 +128,7 @@
       "totalLastMonth": 0,
       "totalCurrentYear": 234566
     },
-    "allTransactions": [
-      {
+    "allTransactions": [{
         "details": {
           "effectiveDate": "2022-11-10T05:13:27.286Z",
           "description": "payment",
@@ -235,9 +234,8 @@
         }
       }
     ]
-  }
-},
-"loanActivity/es": {
+  },
+  "loanActivity/es": {
     "loanInfo": {
       "loanType": "Convencional sin PMI",
       "loanNumber": "1000729",
@@ -258,8 +256,7 @@
       "totalLastMonth": 0,
       "totalCurrentYear": 234566
     },
-    "allTransactions": [
-      {
+    "allTransactions": [{
         "details": {
           "effectiveDate": "2022-11-10T05:13:27.286Z",
           "description": "pago",
