@@ -18,5 +18,349 @@
       "items": ["Twitter", "facebook"]
     }
 
+  },
+  "mortageDetails-es": {
+    "myMortage": {
+      "loanId": "7007800708",
+      "nextPaymentDue": 1183.16,
+      "nextPaymentDueDate": "12/10/2023",
+      "currentLoanBalance": 170458.16,
+      "currentIntrestRate": "2.125%"
+    },
+    "paymentAcknowledgement": "Gracias por el pago recibido el 10/12/2022. Para ver cómo se aplica su pago, consulte la actividad del préstamo",
+    "takeActionComment": "Use nuestra herramienta de cotización personalizada para obtener una cotización sin compromiso basada en sus necesidades",
+    "homeValueComment": "Obtenga un presupuesto de vivienda rápido y sin compromiso y vea las ventas recientes en su área",
+    "refundComment": "No espere un presupuesto de cheque de reembolso. Con eDisbursements, los reembolsos se depositan automáticamente. Regístrate hoy",
+    "learningCenterComment": "Noticias hipotecarias, consejos y herramientas",
+    "calculatorComment": "Aquí hay un enlace a algunas herramientas para ayudarlo a estimar cómo los diferentes aspectos de su hipoteca podrían afectarlo.",
+    "socialMedia": {
+      "comment": "Síguenos en las redes sociales",
+      "items": ["Twitter", "facebook"]
+    }
+
+  },
+  "loanInfos-en": {
+    "loanInfo": {
+      "loanType": "Conventional w/o PMI",
+      "loanNumber": "1000729",
+      "nextPaymentDueDate": "2022-11-10T05:13:27.286Z",
+      "nextPaymentAmount": 1222,
+      "originalPrincipalBalance": 976767,
+      "currentPrincipalBalance": 176767,
+      "propertyAddressLine2": "111345 Diana St",
+      "propertyAddressLine1": "Elmonte SA123",
+      "originationDate": "2022-11-10T05:13:27.286Z",
+      "loanMaturityDate": "2032-11-10T05:13:27.286Z",
+      "originalTerm": 180,
+      "remainingTerm": 80,
+      "paymentPenalty": false
+    },
+    "interestRateInformation": {
+      "currentInterestRate": 12,
+      "nextInterestRateChange": -1,
+      "nextPaymentChange": -1,
+      "reaasonForPaymentChange": "NA"
+    },
+    "taxAndInterestInfo": {
+      "year": "2021",
+      "formNumber": "1098",
+      "mortageInterestReceivedFromBorrower": 1234,
+      "outstandingMortagePrincipal": 12345,
+      "mortageOriginationDate": "2022-11-10T05:13:27.286Z",
+      "refundOfOverpaidIntrest": 0,
+      "mortageInsurancePremium": 0,
+      "pointsOnPurchaseOfPrincipalResidence": 0,
+      "otherRealEstateTaxesPaid": 0
+    }
+  },
+  "loanInfos-es": {
+    "loanInfo": {
+      "loanType": "Convencional sin PMI",
+      "loanNumber": "1000729",
+      "nextPaymentDueDate": "2022-11-10T05:13:27.286Z",
+      "nextPaymentAmount": 1222,
+      "originalPrincipalBalance": 976767,
+      "currentPrincipalBalance": 176767,
+      "propertyAddressLine2": "111345 Diana St",
+      "propertyAddressLine1": "Elmonte SA123",
+      "originationDate": "2022-11-10T05:13:27.286Z",
+      "loanMaturityDate": "2032-11-10T05:13:27.286Z",
+      "originalTerm": 180,
+      "remainingTerm": 80,
+      "paymentPenalty": false
+    },
+    "interestRateInformation": {
+      "currentInterestRate": 12,
+      "nextInterestRateChange": -1,
+      "nextPaymentChange": -1,
+      "reaasonForPaymentChange": "NA"
+    },
+    "taxAndInterestInfo": {
+      "year": "2021",
+      "formNumber": "1098",
+      "mortageInterestReceivedFromBorrower": 1234,
+      "outstandingMortagePrincipal": 12345,
+      "mortageOriginationDate": "2022-11-10T05:13:27.286Z",
+      "refundOfOverpaidIntrest": 0,
+      "mortageInsurancePremium": 0,
+      "pointsOnPurchaseOfPrincipalResidence": 0,
+      "otherRealEstateTaxesPaid": 0
+    }
+  },
+  "loanActivity-en": {
+    "loanInfo": {
+      "loanType": "Conventional w/o PMI",
+      "loanNumber": "1000729",
+      "propertyAddressLine2": "111345 Diana St",
+      "propertyAddressLine1": "Elmonte SA123"
+    },
+    "pastpayment": {
+      "principalLastMonth": 0,
+      "principalCurrentYear": 121212,
+      "intrestLastMonth": 0,
+      "intrestCurrentYear": 5678,
+      "escrowLastMonth": 0,
+      "escrowCurrentYear": 3434,
+      "feesLastMonth": 0,
+      "feesCurrentYear": 121,
+      "suspenseLastMonth": 0,
+      "suspenseCurrentYear": 345,
+      "totalLastMonth": 0,
+      "totalCurrentYear": 234566
+    },
+    "allTransactions": [{
+        "details": {
+          "effectiveDate": "2022-11-10T05:13:27.286Z",
+          "description": "payment",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-09T05:13:27.286Z",
+          "description": "payment1",
+          "transactionAmount": 2876
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-08T05:13:27.286Z",
+          "description": "payment2",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-07T05:13:27.286Z",
+          "description": "payment3",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-03T05:13:27.286Z",
+          "description": "payment4",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-01T05:13:27.286Z",
+          "description": "payment5",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-10-08T05:13:27.286Z",
+          "description": "payment6",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      }
+    ]
+  },
+  "loanActivity-es": {
+    "loanInfo": {
+      "loanType": "Convencional sin PMI",
+      "loanNumber": "1000729",
+      "propertyAddressLine2": "111345 Diana St",
+      "propertyAddressLine1": "Elmonte SA123"
+    },
+    "pastpayment": {
+      "principalLastMonth": 0,
+      "principalCurrentYear": 121212,
+      "intrestLastMonth": 0,
+      "intrestCurrentYear": 5678,
+      "escrowLastMonth": 0,
+      "escrowCurrentYear": 3434,
+      "feesLastMonth": 0,
+      "feesCurrentYear": 121,
+      "suspenseLastMonth": 0,
+      "suspenseCurrentYear": 345,
+      "totalLastMonth": 0,
+      "totalCurrentYear": 234566
+    },
+    "allTransactions": [{
+        "details": {
+          "effectiveDate": "2022-11-10T05:13:27.286Z",
+          "description": "pago",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-09T05:13:27.286Z",
+          "description": "pago1",
+          "transactionAmount": 2876
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-08T05:13:27.286Z",
+          "description": "pago2",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-07T05:13:27.286Z",
+          "description": "pago3",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-03T05:13:27.286Z",
+          "description": "pago4",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-11-01T05:13:27.286Z",
+          "description": "pago5",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      },
+      {
+        "details": {
+          "effectiveDate": "2022-10-08T05:13:27.286Z",
+          "description": "pago6",
+          "transactionAmount": 2356
+        },
+        "paymentBreakDown": {
+          "feesLateCharges": 26
+        },
+        "balances": {
+          "esxrowBalances": 234,
+          "escrowAdvanceBalance": 456,
+          "originalPrincipalBalance": 234567
+        }
+      }
+    ]
   }
 }
